@@ -1,0 +1,3 @@
+# IoT-Botnet-attack-Detection
+
+In addressing the challenge of detecting botnet attacks, a hybrid machine learning algorithm that utilizes the N-BaIoT dataset to analyze and classify network traffic, is proposed. This integrates Convolutional Neural Networks (CNN) and Gated Recurrent Units (GRU) to harness their complementary strengths, enabling effective analysis of both spatial and temporal aspects of network traffic. The process encompasses several key steps as shown in Figure 1 below: data acquisition, data preprocessing, hybrid model training, and model testing. The final botnet detection model aims to achieve high accuracy in classifying traffic while ensuring processing efficiency and suitability for real-time applications. 
